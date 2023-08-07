@@ -1,0 +1,24 @@
+:root{
+  --currentPrimary:#8EE902;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  max-width: 85%;
+  margin: auto;
+  padding: 0 20px;
+}
+
+
+a{
+  text-decoration: none;
+  display: inline-block;
+}
+
+button {
+  cursor: pointer;
+}
